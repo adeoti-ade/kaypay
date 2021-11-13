@@ -76,6 +76,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "kaypay.users.apps.UsersConfig",
+    "kaypay.utils"
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
